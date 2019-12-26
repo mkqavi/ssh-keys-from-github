@@ -13,3 +13,7 @@ Add SSH Keys to `authorized_keys`:
 ```sh
 ./add-keys.sh [GitHub username] >> $HOME/.ssh/authorized_keys
 ```
+
+Flags:
+
+- `-v` for verbose output
